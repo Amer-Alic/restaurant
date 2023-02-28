@@ -4,7 +4,7 @@ import loadMenu from "./menu";
 function loadAbout() {
   const chefImg = document.createElement("img");
   chefImg.id = "img-chef";
-  chefImg.src = "../assets/GRA_Gordon_launch_reception-090121_4_uinath.jpeg";
+  chefImg.src = "../dist/assets/GRA_Gordon_launch_reception-090121_4_uinath.jpeg";
 
   const contentAboutText = document.createElement("div");
   contentAboutText.id = "content-about-text";

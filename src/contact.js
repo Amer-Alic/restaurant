@@ -35,7 +35,7 @@ function loadFooter() {
   a.href = "https://github.com/Amer-Alic";
   const githubImg = document.createElement("img");
   githubImg.id = "github-img";
-  githubImg.src = "../assets/github-circle-svgrepo-com.svg";
+  githubImg.src = "../dist/assets/github-circle-svgrepo-com.svg";
   a.append(githubImg);
 
   githubContact.append(pVisitLink, a);
