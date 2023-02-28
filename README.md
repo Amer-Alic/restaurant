@@ -14,7 +14,11 @@
 - How to use Webpack
 - Better DOM manipulation skills
 - Improved my overall knowledge as a web dev
+### Edit: 
+- I also learned how to deploy my site to github pages when having multiple folders and using webpack! (had quite a bit of problems with this, so I wanted to mention it!)
 
 ## What am I proud of:
 - I felt a lot more confident coding and some tasks that took me a long to finish before, I do easily now
 - Finished this project fastly (at least comparing to previous similar projects)
+
+## HERE IS LIVE PREVIEW: https://amer-alic.github.io/restaurant/ .
